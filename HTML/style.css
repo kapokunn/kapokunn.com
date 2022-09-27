@@ -1,0 +1,33 @@
+body{
+  background: gold;
+}
+header {
+  position: relative
+  paddingーleft: 100px;
+}
+nav {
+  position: absolute;
+  top: 0;
+  right: 100px;
+}
+ul {
+  display: flex
+}
+li{
+  display: flex;
+  color: aquamarine
+list-style-type:none;
+  text-align: center
+li{
+  color:aquamarine
+  paddingーright：50px;
+  font-weight:bold
+  font-size:20px;
+  }
+h1{
+  color: aquamarine
+      paddingーleft:−100px; 
+  }
+image-resolution: {
+  width: 10px;
+  }
